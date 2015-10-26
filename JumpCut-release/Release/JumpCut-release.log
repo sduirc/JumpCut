@@ -1,0 +1,13 @@
+﻿生成启动时间为 10/21/2015 11:15:25 AM。
+     1>项目“D:\computer graphics\video segmentation\code\JumpCut-release\JumpCut-release\JumpCut-release.vcxproj”在节点 2 上(Clean 个目标)。
+     1>CudaClean:
+         cmd.exe /C "C:\Users\Administrator\AppData\Local\Temp\tmp7d6cd5f2b24f4f1bab33e7a1a50c060f.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include"     --keep-dir Release -maxrregcount=0  --machine 32 --compile      -D_CRT_SECURE_NO_WARNINGS -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o Release\cuda.cu.obj "D:\computer graphics\video segmentation\code\JumpCut-release\JumpCut-release\cuda.cu" -clean
+         
+         D:\computer graphics\video segmentation\code\JumpCut-release\JumpCut-release>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include"     --keep-dir Release -maxrregcount=0  --machine 32 --compile      -D_CRT_SECURE_NO_WARNINGS -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD  " -o Release\cuda.cu.obj "D:\computer graphics\video segmentation\code\JumpCut-release\JumpCut-release\cuda.cu" -clean 
+         cuda.cu
+     1>已完成生成项目“D:\computer graphics\video segmentation\code\JumpCut-release\JumpCut-release\JumpCut-release.vcxproj”(Clean 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.08
