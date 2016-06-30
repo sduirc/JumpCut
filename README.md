@@ -14,6 +14,8 @@ These codes include the main contribution of our algorithm, splitNNF, edge class
 
 Note that the edge map is computed with the codes [1] provides. You need to calculate the edge map with their codes first or you can also merge their MATLAB codes with ours using MATLAB Engine. In OpenCV 3.0.0, Dollar edge map is included, using their implementation is also a good choice.
 
+The source codes of FPMLib.lib are in FPM.7z, just in case if you want to run these codes in Linux/64-bit systems.
+
 [1] DOLL´AR, P., AND ZITNICK, C. L. 2013. Structured forests for fast edge detection. In Proc. ICCV, IEEE, 1841–1848.
 
 Dependencies
