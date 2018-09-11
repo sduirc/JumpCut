@@ -3,7 +3,7 @@ JumpCut
 
 Source code of SIGGRAPH Asia '2015 paper *"JumpCut: Non-Successive Mask Transfer and Interpolation for Video Cutout"* by Qingnan Fan *et al.*
 
-Check Qingnan's [homepage](<https://fqnchina.github.io/homepage/>) for the paper, supplemental material, slides, datasets and the other info.
+Check Qingnan's [homepage](<https://fqnchina.github.io/>) for the paper, supplemental material, slides, datasets and the other info.
 
 Note
 ----
